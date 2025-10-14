@@ -1,0 +1,92 @@
+[
+  {
+    "id": "team1",
+    "name": "Nova Hunters",
+    "logo": "🌟",
+    "region": "North America",
+    "founded": "2019",
+    "achievements": [
+      "Artemis Championship Winners 2023",
+      "World Champions 2022",
+      "Regional Champions 5x"
+    ],
+    "roster": ["Artemis Prime", "Nova Sentinel", "Star Gazer", "Comet Striker", "Galaxy Defender"],
+    "stats": {
+      "wins": 234,
+      "losses": 89,
+      "winRate": 72.4
+    }
+  },
+  {
+    "id": "team2",
+    "name": "Void Reapers",
+    "logo": "⚡",
+    "region": "Asia",
+    "founded": "2020",
+    "achievements": [
+      "Asian Champions 2024",
+      "Galactic League Finalists",
+      "Innovation Award 2023"
+    ],
+    "roster": ["Void Walker", "Shadow Blade", "Dark Matter", "Eclipse Hunter", "Abyss Guard"],
+    "stats": {
+      "wins": 198,
+      "losses": 76,
+      "winRate": 72.3
+    }
+  },
+  {
+    "id": "team3",
+    "name": "Eclipse Squad",
+    "logo": "🌙",
+    "region": "Asia",
+    "founded": "2021",
+    "achievements": [
+      "Rising Stars Award 2024",
+      "Galactic League Winners",
+      "Best Newcomer Team 2021"
+    ],
+    "roster": ["Luna Strike", "Solar Flare", "Moon Shadow", "Twilight Ace", "Dusk Warrior"],
+    "stats": {
+      "wins": 176,
+      "losses": 82,
+      "winRate": 68.2
+    }
+  },
+  {
+    "id": "team4",
+    "name": "Quantum Phoenix",
+    "logo": "🔥",
+    "region": "South America",
+    "founded": "2018",
+    "achievements": [
+      "Precision Cup Winners 2024",
+      "Regional Dominance 4x",
+      "Fan Favorite Award 2023"
+    ],
+    "roster": ["Quantum Ace", "Phoenix Rising", "Flame Emperor", "Blaze Master", "Inferno Knight"],
+    "stats": {
+      "wins": 212,
+      "losses": 94,
+      "winRate": 69.3
+    }
+  },
+  {
+    "id": "team5",
+    "name": "Nebula Knights",
+    "logo": "⚔️",
+    "region": "Europe",
+    "founded": "2019",
+    "achievements": [
+      "European Champions 2023",
+      "Strategic Excellence Award",
+      "5x Tournament Winners"
+    ],
+    "roster": ["Nebula Phantom", "Knight Commander", "Star Sword", "Cosmic Blade", "Astral Guardian"],
+    "stats": {
+      "wins": 203,
+      "losses": 87,
+      "winRate": 70.0
+    }
+  }
+]

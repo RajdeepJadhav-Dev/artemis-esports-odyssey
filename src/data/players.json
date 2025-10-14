@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p1",
+    "name": "Artemis Prime",
+    "role": "Sniper",
+    "team": "Nova Hunters",
+    "country": "🇺🇸",
+    "rating": 98,
+    "achievements": [
+      "2x World Champion",
+      "MVP - Artemis Championship 2023",
+      "Highest K/D Ratio 2023"
+    ],
+    "stats": {
+      "matches": 234,
+      "wins": 189,
+      "kdRatio": 2.8
+    }
+  },
+  {
+    "id": "p2",
+    "name": "Void Walker",
+    "role": "Controller",
+    "team": "Void Reapers",
+    "country": "🇰🇷",
+    "rating": 95,
+    "achievements": [
+      "Top Controller 2024",
+      "Galactic League Winner",
+      "Best Strategic Mind Award"
+    ],
+    "stats": {
+      "matches": 198,
+      "wins": 156,
+      "kdRatio": 2.3
+    }
+  },
+  {
+    "id": "p3",
+    "name": "Luna Strike",
+    "role": "Duelist",
+    "team": "Eclipse Squad",
+    "country": "🇯🇵",
+    "rating": 97,
+    "achievements": [
+      "Fastest Rising Star 2024",
+      "3x Tournament MVP",
+      "Most Eliminations Season 4"
+    ],
+    "stats": {
+      "matches": 176,
+      "wins": 142,
+      "kdRatio": 3.1
+    }
+  },
+  {
+    "id": "p4",
+    "name": "Quantum Ace",
+    "role": "Support",
+    "team": "Quantum Phoenix",
+    "country": "🇧🇷",
+    "rating": 92,
+    "achievements": [
+      "Best Support Player 2024",
+      "Team Player Award",
+      "Precision Cup Winner"
+    ],
+    "stats": {
+      "matches": 167,
+      "wins": 128,
+      "kdRatio": 1.9
+    }
+  },
+  {
+    "id": "p5",
+    "name": "Nova Sentinel",
+    "role": "Tank",
+    "team": "Nova Hunters",
+    "country": "🇸🇪",
+    "rating": 94,
+    "achievements": [
+      "Defensive Player of the Year",
+      "Iron Wall Award",
+      "Team Captain 2023-2024"
+    ],
+    "stats": {
+      "matches": 245,
+      "wins": 192,
+      "kdRatio": 1.6
+    }
+  },
+  {
+    "id": "p6",
+    "name": "Nebula Phantom",
+    "role": "Assassin",
+    "team": "Nebula Knights",
+    "country": "🇫🇷",
+    "rating": 96,
+    "achievements": [
+      "Stealth Master 2024",
+      "Clutch Player Award",
+      "5x Tournament Winner"
+    ],
+    "stats": {
+      "matches": 189,
+      "wins": 154,
+      "kdRatio": 2.9
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "m1",
+    "team1": {
+      "name": "Nova Hunters",
+      "logo": "🌟",
+      "score": 2
+    },
+    "team2": {
+      "name": "Void Reapers",
+      "logo": "⚡",
+      "score": 1
+    },
+    "tournament": "Artemis Championship 2024",
+    "date": "2024-10-20T18:00:00Z",
+    "status": "completed",
+    "featured": true
+  },
+  {
+    "id": "m2",
+    "team1": {
+      "name": "Cosmic Warriors",
+      "logo": "🚀",
+      "score": 0
+    },
+    "team2": {
+      "name": "Eclipse Squad",
+      "logo": "🌙",
+      "score": 2
+    },
+    "tournament": "Galactic League Finals",
+    "date": "2024-10-22T20:00:00Z",
+    "status": "completed",
+    "featured": true
+  },
+  {
+    "id": "m3",
+    "team1": {
+      "name": "Quantum Phoenix",
+      "logo": "🔥",
+      "score": null
+    },
+    "team2": {
+      "name": "Nebula Knights",
+      "logo": "⚔️",
+      "score": null
+    },
+    "tournament": "Artemis Championship 2024",
+    "date": "2024-10-25T16:00:00Z",
+    "status": "upcoming",
+    "featured": true
+  },
+  {
+    "id": "m4",
+    "team1": {
+      "name": "Stellar Titans",
+      "logo": "💫",
+      "score": 1
+    },
+    "team2": {
+      "name": "Astral Legends",
+      "logo": "✨",
+      "score": 2
+    },
+    "tournament": "Precision Invitational",
+    "date": "2024-10-18T19:00:00Z",
+    "status": "completed",
+    "featured": false
+  }
+]

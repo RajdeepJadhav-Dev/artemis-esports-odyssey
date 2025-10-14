@@ -1,0 +1,46 @@
+[
+  {
+    "id": "t1",
+    "name": "Artemis Championship 2024",
+    "description": "The ultimate test of precision and strategy",
+    "startDate": "2024-10-15T00:00:00Z",
+    "endDate": "2024-11-15T00:00:00Z",
+    "prizePool": "$500,000",
+    "teams": 16,
+    "status": "ongoing",
+    "icon": "🏆"
+  },
+  {
+    "id": "t2",
+    "name": "Galactic League Finals",
+    "description": "Where legends are forged in the cosmos",
+    "startDate": "2024-10-20T00:00:00Z",
+    "endDate": "2024-10-30T00:00:00Z",
+    "prizePool": "$300,000",
+    "teams": 12,
+    "status": "ongoing",
+    "icon": "🌌"
+  },
+  {
+    "id": "t3",
+    "name": "Precision Invitational",
+    "description": "Elite competition for the world's best",
+    "startDate": "2024-09-01T00:00:00Z",
+    "endDate": "2024-09-30T00:00:00Z",
+    "prizePool": "$250,000",
+    "teams": 8,
+    "status": "completed",
+    "icon": "🎯"
+  },
+  {
+    "id": "t4",
+    "name": "Nova Odyssey Cup",
+    "description": "A journey through competitive excellence",
+    "startDate": "2024-11-01T00:00:00Z",
+    "endDate": "2024-12-01T00:00:00Z",
+    "prizePool": "$400,000",
+    "teams": 20,
+    "status": "upcoming",
+    "icon": "🌠"
+  }
+]
