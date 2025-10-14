@@ -11,6 +11,7 @@ import Matches from "./pages/Matches";
 import NotFound from "./pages/NotFound";
 import Navigation from "./components/Navigation";
 import ParticleBackground from "./components/ParticleBackground";
+import CommunityZone from "./pages/CommunityZone";
 
 const queryClient = new QueryClient();
 
@@ -29,6 +30,7 @@ const App = () => (
           <Route path="/teams" element={<Teams />} />
           <Route path="/matches" element={<Matches />} />
           <Route path="*" element={<NotFound />} />
+           <Route path="/communityzone" element={< CommunityZone/>} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>
